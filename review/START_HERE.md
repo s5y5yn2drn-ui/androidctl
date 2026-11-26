@@ -40,7 +40,8 @@
 
 ## 阅读顺序
 
-0. `androidctl-r7-candidate-review-f401deb.md` §1（第一页）和 §6（要裁决的题）：第七轮评审的结论，等用户裁决。
+先读 `androidctl-r7-candidate-review-f401deb.md` 的 §1（第一页）和 §6（要裁决的题）：这是第七轮评审的结论，等用户裁决。然后按下面的顺序：
+
 0. `androidctl-r6-decisions.md`：第六轮的裁决、这一批的清单、风险提示。然后是 `androidctl-r6-candidate-review-fb75afc.md` §1（第一页）、§3（发现）和附录一。
 1. `androidctl-r5-decisions.md`：第五轮的裁决、第四轮各条现在的状态、连带结果。
 2. 第五轮评审 §1（结果）、§4（发现）、§5（各题的背景和候选项）。
